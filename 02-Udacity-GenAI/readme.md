@@ -1,7 +1,7 @@
 # Generative AI - Bertelsmann Next Generation Tech Booster Scholarship
 
 <p align="center">
-    <img src="https://github.com/cintia-shinoda/ai/blob/main/02-Udacity-GenAI/badge.jpg" width="400" height="400">
+    <img src="https://github.com/cintia-shinoda/ai/blob/main/02-Udacity-GenAI/badge.jpg" width="4600" height="600">
 </p>
 
 ## Generative AI Fundamentals

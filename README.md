@@ -4,7 +4,7 @@
 |  | # | Course / Book | Author | Status |
 |:---:|:---:|:---|:---|:---:|
 |  | 1 | AI Python for Beginners | DeepLearning.AI | ![0%](https://geps.dev/progress/0) |
-|  | 2 | Generative AI | Udacity | ![7%](https://geps.dev/progress/7) |
+|  | 2 | Generative AI | Udacity | ![19%](https://geps.dev/progress/19) |
 
 
 

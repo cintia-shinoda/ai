@@ -5,7 +5,7 @@
 |:---:|:---:|:---|:---|:---:|
 |  | 1 | AI Python for Beginners | DeepLearning.AI | ![0%](https://geps.dev/progress/0) |
 |  | 2 | Generative AI | Udacity | ![19%](https://geps.dev/progress/19) |
-
+|  | 3 | Projeto: DeepSeek |  | ![0%](https://geps.dev/progress/0) |  
 
 
 

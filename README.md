@@ -3,11 +3,11 @@
 
 |  | # | Course / Book | Author | Status |
 |:---:|:---:|:---|:---|:---:|
-|  | 1 | AI Python for Beginners | DeepLearning.AI | ![0%](https://geps.dev/progress/0) |
-|  | 2 | Generative AI | Udacity | ![19%](https://geps.dev/progress/19) |
-|  | 3 | Projeto: DeepSeek |  | ![0%](https://geps.dev/progress/0) |  
-
-
+|  | 01 | AI Python for Beginners | DeepLearning.AI | ![0%](https://geps.dev/progress/0) |
+|  | 02 | Generative AI | Udacity | ![19%](https://geps.dev/progress/19) |
+|  | 03 | Projeto: DeepSeek |  | ![100%](https://geps.dev/progress/100) |  
+|  | 04 | Disaster Risk Monitoring Using Satellite Imagery | Deep Learning Institute - NVIDIA | ![0%](https://geps.dev/progress/0) |
+|  | 05 | Minicursos: Programa de Verão 2025 | LNCC | ![0%](https://geps.dev/progress/0) |
 
 
 <!-- |  | 1 | [Become an AI Developer Code-Along Series](https://github.com/cintia-shinoda/ai/tree/master/1-Become-AI-Dev) | DataCamp | ![0%](https://progress-bar.dev/0) |

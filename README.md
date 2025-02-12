@@ -4,8 +4,8 @@
 |  | # | Course / Book | Author | Status |
 |:---:|:---:|:---|:---|:---:|
 |  | 01 | AI Python for Beginners | DeepLearning.AI | ![0%](https://geps.dev/progress/0) |
-|  | 02 | Generative AI | Udacity | ![19%](https://geps.dev/progress/19) |
-|  | 03 | Projeto: DeepSeek |  | ![100%](https://geps.dev/progress/100) |  
+|  | 02 | [Scholarship: Generative AI](https://github.com/cintia-shinoda/ai/tree/main/02-Udacity-GenAI) | Udacity | ![19%](https://geps.dev/progress/19) |
+|  | 03 | [Projeto: DeepSeek](https://github.com/cintia-shinoda/ai/tree/main/03-Chat-DeepSeek) |  | ![100%](https://geps.dev/progress/100) |  
 |  | 04 | Disaster Risk Monitoring Using Satellite Imagery | Deep Learning Institute - NVIDIA | ![0%](https://geps.dev/progress/0) |
 |  | 05 | Minicursos: Programa de Verão 2025 | LNCC | ![0%](https://geps.dev/progress/0) |
 

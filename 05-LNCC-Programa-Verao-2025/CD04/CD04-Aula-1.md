@@ -1,4 +1,4 @@
-# Deep Learning
+# CD04 - Deep Learning - Aula 1
 
 - Aula 1: https://www.youtube.com/live/vL1DtswnwS4?si=8JjL9SEPEi_o9BIP
 

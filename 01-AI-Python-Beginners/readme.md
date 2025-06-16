@@ -1,3 +1,6 @@
+# AI Python for Beginners - DeepLearning.AI
+
+
 |  | # | Course | Status |
 |:---:|:---:|:---|:---:|
 |  | 1 | Basics of AI Python Coding | ![0%](https://geps.dev/progress/0) |

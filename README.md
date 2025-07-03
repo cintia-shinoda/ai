@@ -16,7 +16,8 @@
 |  | 06 | [Skill Track: Developing AI Applications](https://github.com/cintia-shinoda/ai/tree/main/06-Developing-AI-Apps) | DataCamp | ![0%](https://geps.dev/progress/0) |
 | | 07 | [5-Day Intensive Generative AI Course](https://github.com/cintia-shinoda/ai/tree/main/07-5-Day-GenAI-Course) | Google / Kaggle | ![0%](https://geps.dev/progress/0) |
 |  | 08 | [LLM Engineering](https://github.com/cintia-shinoda/ai/tree/main/08-LLM-Engineering) |  | ![0%](https://geps.dev/progress/0) |
-|  | 09 | [DuckDB e Firecrawl para Database e Web Scraping Analytics](https://github.com/cintia-shinoda/ai/tree/main/01-DuckDB-e-Firecrawl) | DSA | ![0%](https://geps.dev/progress/0) |
+|  | 09 | GenAI Zero to Hero Academy | Google Cloud | ![0%](https://geps.dev/progress/0) |
+
 <!-- |  | 1 | [Become an AI Developer Code-Along Series](https://github.com/cintia-shinoda/ai/tree/master/1-Become-AI-Dev) | DataCamp | ![0%](https://progress-bar.dev/0) |
 |  | 2 | Formação OpenAI e Python: crie ferramentas poderosas e chatbots inteligentes com as APIs da OpenAI | Alura | ![0%](https://progress-bar.dev/0) |
 |  | 3 | Bootcamp: IA Generativa com AWS | trybe | ![9%](https://progress-bar.dev/9) |

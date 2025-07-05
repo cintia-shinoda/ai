@@ -4,6 +4,8 @@
     <img src="https://github.com/cintia-shinoda/ai/blob/main/02-Udacity-GenAI/badge.jpg" width="500" height="500">
 </p>
 
+[Certificate](https://www.udacity.com/certificate/e/e60c0c14-b7bc-11ef-997d-eb10980c86ef)
+
 ## Generative AI Fundamentals
 
 |  | # | Course | Status |

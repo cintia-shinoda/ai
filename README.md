@@ -8,7 +8,7 @@
 
 |  | # | Course / Book | Author | Status |
 |:---:|:---:|:---|:---|:---:|
-|  | 01 | [AI Python for Beginners](https://github.com/cintia-shinoda/ai/tree/main/01-AI-Python-Beginners) | DeepLearningAI | ![0%](https://geps.dev/progress/0) |
+|  | 01 | [AI Python for Beginners](https://github.com/cintia-shinoda/ai/tree/main/01-AI-Python-for-Beginners) | DeepLearningAI | ![0%](https://geps.dev/progress/0) |
 |  | 02 | [Scholarship: Generative AI](https://github.com/cintia-shinoda/ai/tree/main/02-Udacity-GenAI) | Udacity | ![19%](https://geps.dev/progress/19) |
 |  | 03 | [Projeto: DeepSeek](https://github.com/cintia-shinoda/ai/tree/main/03-Chat-DeepSeek) |  | ![100%](https://geps.dev/progress/100) |  
 |  | 04 | [Disaster Risk Monitoring Using Satellite Imagery](https://github.com/cintia-shinoda/ai/tree/main/04-Disaster-Risk-Monitoring) | Deep Learning Institute - NVIDIA | ![0%](https://geps.dev/progress/0) |
@@ -18,6 +18,9 @@
 |  | 08 | [LLM Engineering](https://github.com/cintia-shinoda/ai/tree/main/08-LLM-Engineering) |  | ![0%](https://geps.dev/progress/0) |
 |  | 09 | [GenAI Zero to Hero Academy](https://github.com/cintia-shinoda/ai/tree/main/09-Google-GenAI-0-to-Hero) | Google Cloud | ![0%](https://geps.dev/progress/0) |
 |  | 10 | [Skill Track: AI Fundamentals](https://github.com/cintia-shinoda/ai/tree/main/10-AI-Fundamentals) | DataCamp | ![0%](https://geps.dev/progress/0) |
+|  | 11 | [5-Day AI Agents Intensive Course](https://github.com/cintia-shinoda/ai/tree/main/11-5-Day-AI-Agents-Intensive-Course) | Google / Kaggle | ![0%](https://geps.dev/progress/0) |
+|  | 12 |  | Stanford | ![0%](https://geps.dev/progress/0) |
+|  | 13 | [Escola de Primavera de LLMs](https://github.com/cintia-shinoda/ai/tree/main/13-Escola-de-Primavera-de-LLMs) | USP-ICMC | ![0%](https://geps.dev/progress/0) |
 
 <!-- |  | 1 | [Become an AI Developer Code-Along Series](https://github.com/cintia-shinoda/ai/tree/master/1-Become-AI-Dev) | DataCamp | ![0%](https://progress-bar.dev/0) |
 |  | 2 | Formação OpenAI e Python: crie ferramentas poderosas e chatbots inteligentes com as APIs da OpenAI | Alura | ![0%](https://progress-bar.dev/0) |

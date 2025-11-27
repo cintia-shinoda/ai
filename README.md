@@ -19,8 +19,10 @@
 |  | 09 | [GenAI Zero to Hero Academy](https://github.com/cintia-shinoda/ai/tree/main/09-Google-GenAI-0-to-Hero) | Google Cloud | ![0%](https://geps.dev/progress/0) |
 |  | 10 | [Skill Track: AI Fundamentals](https://github.com/cintia-shinoda/ai/tree/main/10-AI-Fundamentals) | DataCamp | ![0%](https://geps.dev/progress/0) |
 |  | 11 | [5-Day AI Agents Intensive Course](https://github.com/cintia-shinoda/ai/tree/main/11-5-Day-AI-Agents-Intensive-Course) | Google / Kaggle | ![0%](https://geps.dev/progress/0) |
-|  | 12 |  | Stanford | ![0%](https://geps.dev/progress/0) |
+|  | 12 | [Machine Learning Specialization](https://github.com/cintia-shinoda/stanford-ml-specialization) | Stanford & DeepLearning.AI | ![0%](https://geps.dev/progress/0) |
 |  | 13 | [Escola de Primavera de LLMs](https://github.com/cintia-shinoda/ai/tree/main/13-Escola-de-Primavera-de-LLMs) | USP-ICMC | ![0%](https://geps.dev/progress/0) |
+|  | 14 | [Formação Engenheiro de Agentes de IA](https://github.com/cintia-shinoda/ai/tree/main/14-Formacao-Engenheiro-de-Agentes-de-IA) | ASIMOV | ![0%](https://geps.dev/progress/0) |
+
 
 <!-- |  | 1 | [Become an AI Developer Code-Along Series](https://github.com/cintia-shinoda/ai/tree/master/1-Become-AI-Dev) | DataCamp | ![0%](https://progress-bar.dev/0) |
 |  | 2 | Formação OpenAI e Python: crie ferramentas poderosas e chatbots inteligentes com as APIs da OpenAI | Alura | ![0%](https://progress-bar.dev/0) |

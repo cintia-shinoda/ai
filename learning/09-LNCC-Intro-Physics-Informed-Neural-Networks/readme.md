@@ -5,6 +5,8 @@
 - Carga Horária: 6 horas
 - 24 a 27 de Fevereiro de 2026
 
+<!-- - Material: https://drive.google.com/drive/folders/157wRdKNiXikGTbA1MoxcZFSGXiytn9ZQ -->
+
 A inteligência artificial baseada em aprendizado de máquina faz parte das nossas vidas cotidianas de várias formas, como por exemplo: carros autônomos e semi-autônomos, reconhecimento facial e de fala, auxílio a diagnósticos médicos, pesquisas do Google, recomendações de produtos e conteúdo nas redes sociais.
 Dentro do contexto científico, essas mesmas ferramentas podem ser utilizadas para modelagem de problemas complexos relacionados a leis físicas. Em particular, as redes neurais informadas pela física (do inglês) Physics-Informed Neural Networks - PINNs) são redes neurais que codificam equações modelo, como equações diferenciais parciais, como um componente da própria rede neural. As PINNs são hoje utilizadas para resolver equações diferenciais ordinárias, parciais, fracionárias, integrais e estocásticas.
 

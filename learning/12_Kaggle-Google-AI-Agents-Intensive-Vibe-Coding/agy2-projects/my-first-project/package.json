@@ -1,0 +1,29 @@
+{
+  "name": "google-news-cli",
+  "version": "1.0.0",
+  "description": "A premium CLI tool to get the latest news from Google News",
+  "main": "bin/index.js",
+  "type": "module",
+  "bin": {
+    "google-news": "./bin/index.js"
+  },
+  "scripts": {
+    "start": "node bin/index.js"
+  },
+  "keywords": [
+    "cli",
+    "news",
+    "google-news",
+    "interactive"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^12.1.0",
+    "ora": "^8.0.1",
+    "open": "^10.1.0",
+    "picocolors": "^1.0.1",
+    "prompts": "^2.4.2",
+    "rss-parser": "^3.13.0"
+  }
+}

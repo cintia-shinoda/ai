@@ -33,18 +33,19 @@ ai-lab/
 
 |  | # | Course / Book | Author | Status |
 |:---:|:---:|:---|:---|:---:|
-|  | 01 | [AI Python for Beginners](https://github.com/cintia-shinoda/ai-lab/tree/main/learning/01-AI-Python-for-Beginners) | DeepLearningAI | ![0%](https://geps.dev/progress/0) |
-|  | 02 | [Scholarship: Generative AI](https://github.com/cintia-shinoda/ai-lab/tree/main/learning/02-Udacity-GenAI) | Udacity | ![19%](https://geps.dev/progress/19) |
-|  | 03 | [Disaster Risk Monitoring Using Satellite Imagery](https://github.com/cintia-shinoda/ai-lab/tree/main/learning/03-NVIDIA-Disaster-Risk-Monitoring) | Deep Learning Institute - NVIDIA | ![0%](https://geps.dev/progress/0) |
-|  | 04 | [Skill Track: Developing AI Applications](https://github.com/cintia-shinoda/ai-lab/tree/main/learning/04-Datacamp-Developing-AI-Apps) | DataCamp | ![0%](https://geps.dev/progress/0) |
-| | 05 | [5-Day Intensive Generative AI Course](https://github.com/cintia-shinoda/ai-lab/tree/main/learning/05-Google-5-Day-GenAI-Course) | Google / Kaggle | ![0%](https://geps.dev/progress/0) |
-|  | 06 | [Skill Track: AI Fundamentals](https://github.com/cintia-shinoda/ai-lab/tree/main/learning/06-Datacamp-AI-Fundamentals) | DataCamp | ![0%](https://geps.dev/progress/0) |
+|  | 01 | [AI Python for Beginners](https://github.com/cintia-shinoda/ai-lab/tree/main/learning/01_AI-Python-for-Beginners) | DeepLearningAI | ![0%](https://geps.dev/progress/0) |
+|  | 02 | [Scholarship: Generative AI](https://github.com/cintia-shinoda/ai-lab/tree/main/learning/02_Udacity-GenAI) | Udacity | ![19%](https://geps.dev/progress/19) |
+|  | 03 | [Disaster Risk Monitoring Using Satellite Imagery](https://github.com/cintia-shinoda/ai-lab/tree/main/learning/03_NVIDIA-Disaster-Risk-Monitoring) | Deep Learning Institute - NVIDIA | ![0%](https://geps.dev/progress/0) |
+|  | 04 | [Skill Track: Developing AI Applications](https://github.com/cintia-shinoda/ai-lab/tree/main/learning/04_Datacamp-Developing-AI-Apps) | DataCamp | ![0%](https://geps.dev/progress/0) |
+| | 05 | [5-Day Intensive Generative AI Course](https://github.com/cintia-shinoda/ai-lab/tree/main/learning/05_Google-5-Day-GenAI-Course) | Google / Kaggle | ![0%](https://geps.dev/progress/0) |
+|  | 06 | [Skill Track: AI Fundamentals](https://github.com/cintia-shinoda/ai-lab/tree/main/learning/06_Datacamp-AI-Fundamentals) | DataCamp | ![0%](https://geps.dev/progress/0) |
 |  | 07 | [Machine Learning Specialization](https://github.com/cintia-shinoda/stanford-ml-specialization) | Stanford & DeepLearning.AI | ![0%](https://geps.dev/progress/0) |
-|  | 08 | [Deep Learning](https://github.com/cintia-shinoda/ai-lab/tree/main/learning/08-LNCC-Deep-Learning) | Verão LNCC 2026 | ![0%](https://geps.dev/progress/0) |
-|  | 09 | [Introdução às Redes Neurais Informadas pela Física (PINNs)](https://github.com/cintia-shinoda/ai-lab/tree/main/learning/09-LNCC-Intro-Physics-Informed-Neural-Networks) | Verão LNCC 2026 | ![0%](https://geps.dev/progress/0) |
-|  | 10 | Assimilação de Dados por Aprendizado de Máquina | Verão LNCC 2026 | ![0%](https://geps.dev/progress/0) |
-|  | 11 | Visão Computacional | Nexvisual | ![0%](https://geps.dev/progress/0) |
-
+|  | 08 | [Deep Learning](https://github.com/cintia-shinoda/ai-lab/tree/main/learning/08_LNCC-Deep-Learning) | Verão LNCC 2026 | ![0%](https://geps.dev/progress/0) |
+|  | 09 | [Introdução às Redes Neurais Informadas pela Física (PINNs)](https://github.com/cintia-shinoda/ai-lab/tree/main/learning/09_LNCC-Intro-Physics-Informed-Neural-Networks) | Verão LNCC 2026 | ![0%](https://geps.dev/progress/0) |
+|  | 10 | [Assimilação de Dados por Aprendizado de Máquina](https://github.com/cintia-shinoda/ai-lab/tree/main/learning/10_LNCC-Assimilacao-de-Dados-por-Aprendizado-de-Maquina) | Verão LNCC 2026 | ![0%](https://geps.dev/progress/0) |
+|  | 11 | [Inteligência Artificial e Aprendizado de Máquina: Fundamentos para Ciências Aplicadas e Engenharia](https://github.com/cintia-shinoda/ai-lab/tree/main/learning/11_LNCC-IA-e-ML-Fundamentos-Ciencias-Aplicadas-e-Engenharia) | Verão LNCC 2026 | ![0%](https://geps.dev/progress/0) |
+|  | 12 | [5-Day AI Agents Intensive Vibe Coding](https://github.com/cintia-shinoda/ai-lab/tree/main/learning/12_Kaggle-Google-AI-Agents-Intensive-Vibe-Coding) | Google / Kaggle | ![0%](https://geps.dev/progress/0) |
+|  | 13 | [AWS AI & ML Scholarship](https://github.com/cintia-shinoda/ai-lab/tree/main/learning/13_Udacity-AWS-AI-&-ML-Scholars) | Udacity | ![0%](https://geps.dev/progress/0) |
 
 <!-- |  | 1 | [Become an AI Developer Code-Along Series](https://github.com/cintia-shinoda/ai-lab/tree/main/learning/x_deprecated/1-Become-AI-Dev) | DataCamp | ![0%](https://progress-bar.dev/0) |
 
